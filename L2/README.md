@@ -30,6 +30,14 @@ Crie dois arquivos: `reset.css` e `style.css` e importe-os no seu HTML nessa ord
     outline: none;
 }
 ```
+
+Paleta de cores: 
+    + `Preto`: rgb(45, 45, 45);
+    + `Verde`: rgb(0, 219, 95);
+    + `Verde Escuro`: rgb(0, 178, 77);
+    + `Vermelho`: rgb(255, 90, 90);
+
+
 ### Funcionalidades
 A aplicação começa exibindo apenas o título, subtítulo e o botão "Nova Música". Ao clicar no botão "Nova Música" este deve ser escondido, e um formulário com três campos: "Nome da música", "Duração da música" e "Autor da música" e dois botões: "Salvar" e "Cancelar" devem ser exibidos. 
 
