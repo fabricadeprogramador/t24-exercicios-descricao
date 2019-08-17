@@ -32,10 +32,14 @@ Crie dois arquivos: `reset.css` e `style.css` e importe-os no seu HTML nessa ord
 ```
 
 Paleta de cores: 
-    + `Preto`: rgb(45, 45, 45);
-    + `Verde`: rgb(0, 219, 95);
-    + `Verde Escuro`: rgb(0, 178, 77);
-    + `Vermelho`: rgb(255, 90, 90);
+
++ `Preto`: rgb(45, 45, 45);
+
++ `Verde`: rgb(0, 219, 95);
+
++ `Verde Escuro`: rgb(0, 178, 77);
+
++ `Vermelho`: rgb(255, 90, 90);
 
 
 ### Funcionalidades
