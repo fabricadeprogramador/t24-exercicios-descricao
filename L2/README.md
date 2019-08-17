@@ -17,7 +17,11 @@ O objetvo é criar um aplicação para validar um cadastro de música dentro de 
 Crie uma pasta chamada **my-playlist** para esta atividade
 
 ### HTML
-Você deve criar apenas um arquivo HTML, nele faça a instânciaçõa do Vue Root.
+Você deve criar apenas um arquivo HTML, nele faça a instânciaçõa do Vue Root. Coloque a tag abaixo no final do corpo do HTML (antes da tag `</body>`)
+
+```html 
+<script src="https://cdn.jsdelivr.net/npm/vue"></script>
+```
 
 ### CSS
 Crie dois arquivos: `reset.css` e `style.css` e importe-os no seu HTML nessa ordem. Para o arquivos `reset.css` utilize o código abaixo: 
