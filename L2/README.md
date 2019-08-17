@@ -31,6 +31,7 @@ Crie dois arquivos: `reset.css` e `style.css` e importe-os no seu HTML nessa ord
     box-sizing: border-box;
     font-family: sans-serif;
     margin: 0px;
+    padding: 0px;
     outline: none;
 }
 ```
